@@ -1,4 +1,4 @@
-# Python-For-Data-Viz
+# Learning-Python-for-Data-Analysis-and-Visualization
 Udemy course by Jose Portilla. You can find this wonderful course [here](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/v4/overview)
   
 This course is intended to learn Python and how to use it to analyse, visualise and present data.  
